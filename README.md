@@ -32,4 +32,4 @@ TicTacToe: Main class to initialize the game and manage the game loop.
 Board: Class to handle board operations like updating the board, checking for a win or draw, and displaying the board.
 Player: Class (or methods) to handle player moves and switch turns.
 
-![tictactoe-java-demo](https://github.com/madhurmanoj/Tic-Tac-Toe/blob/main/demo.png)
+![tictactoe-java-demo]([https://github.com/madhurmanoj/Tic-Tac-Toe/blob/main/demo.png](https://github.com/madhurmanoj/Tic-Tac-Toe/blob/main/DEMO.png))
